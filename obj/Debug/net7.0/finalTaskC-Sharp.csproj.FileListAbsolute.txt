@@ -1,0 +1,15 @@
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.csproj.AssemblyReference.cache
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.AssemblyInfoInputs.cache
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.AssemblyInfo.cs
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\bin\Debug\net7.0\finalTaskC-Sharp.exe
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\bin\Debug\net7.0\finalTaskC-Sharp.deps.json
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\bin\Debug\net7.0\finalTaskC-Sharp.runtimeconfig.json
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\bin\Debug\net7.0\finalTaskC-Sharp.dll
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\bin\Debug\net7.0\finalTaskC-Sharp.pdb
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.dll
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\refint\finalTaskC-Sharp.dll
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.pdb
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\finalTaskC-Sharp.genruntimeconfig.cache
+C:\Users\79114\Desktop\итог\finalTaskC-Sharp\obj\Debug\net7.0\ref\finalTaskC-Sharp.dll
